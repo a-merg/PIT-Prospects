@@ -1,4 +1,4 @@
-# 2019 PIT Prospect Analysis
+# 2019 PIT Prospects Radar Charts
 Analysis conducted on 2019 PIT prospects consists of the radar charts included in the PIT Prospect Summaries PDF file. Data files used for the analysis are the following:
 
   - NCAARealGM: Database of all NCAA Division-I men's player stats dating back to 2000
